@@ -1,0 +1,2 @@
+apt install socket or pip install socket
+pip install threading
